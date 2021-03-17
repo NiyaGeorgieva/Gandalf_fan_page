@@ -1,0 +1,29 @@
+#image1{
+    margin-top: 100px;
+}
+body{
+    background-image: url("../images/background.png");
+}
+.centered{
+    text-align: center;
+}
+
+.margin-top{
+    margin-top: 15px;
+}
+
+.left-border{
+    border-left: white;
+    border-left-width: 2px;
+}
+
+.full-border{
+    border-style: solid;
+    border-color: darkslategrey;
+    border-width: 3px;
+}
+/* 
+.centered-content{
+    vertical-align: middle;
+    align-content: center;
+} */
