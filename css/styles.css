@@ -17,9 +17,10 @@ body{
     border-left-width: 2px;
 }
 
-.full-border{
+.page-header{
     border-style: solid;
     border-color: darkslategrey;
+    background-color: moccasin;
     border-width: 3px;
 }
 /* 
